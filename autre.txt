@@ -1,2 +1,3 @@
 Ceci est un fichier utilisé en guise d'essai
 autre ligne ajoutée depuis github
+mais aussi depuis ma machine locale
