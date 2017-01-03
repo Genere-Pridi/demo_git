@@ -1,1 +1,2 @@
- 1 Ceci est un fichier utilis� en guise d'essai
+Ceci est un fichier utilisé en guise d'essai
+autre ligne ajoutée depuis github
